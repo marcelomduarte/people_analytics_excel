@@ -23,9 +23,9 @@ graph LR
     end
 
     subgraph Output ["📈 RESULTADOS"]
-        C["Relatório Analítico<br/>Excel (rh_analises_v1.0.xlsx)"]
-        D["Relatório PDF<br/>rh_relatorio.pdf"]
-        E["Apresentação<br/>PowerPoint (slides)"]
+        C["Relatório Analítico<br/>Excel"]
+        D["Relatório<br/>PDF"]
+        E["Apresentação<br/>PowerPoint"]
     end
 
     A --> B
